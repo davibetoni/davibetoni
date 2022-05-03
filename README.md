@@ -1,7 +1,7 @@
 ### Hi there 👋
 I’m a passionate and focused programmer with a systemic vision and constantly seeking knowledge. I'm also a fast learner who is always striving to understand and solve problems.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davibetoni&count_private=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davibetoni&count_private=true&theme=radical&show_icons=true)
 
 - 🔭 I’m currently working on Ruby on Rails;
 - 🌱 I’m currently learning React, NodeJS, PHP;
