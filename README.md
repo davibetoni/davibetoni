@@ -1,5 +1,5 @@
 ### Hi there 👋
-I’m a passionate and focused programmer with a systemic vision and constantly seeking knowledge. I'm also a fast learner who is always striving to understand and solve problems.
+I’m a passionate and focused programmer with a systemic vision and constantly seeking knowledge.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davibetoni&theme=radical&count_private=true)
 
