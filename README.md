@@ -10,24 +10,24 @@ Always curious, always learning.
 
 ### 🔧 Tech Stack
 - **Languages:** TypeScript, JavaScript, Ruby, Python, Clojure  
-- **Frameworks:** Node.js (Express/Nest), Ruby on Rails, FastAPI  
-- **Data:** MySQL, PostgreSQL, Redis, Datomic  
+- **Frameworks:** Node.js (Nest/Express), Ruby on Rails, FastAPI  
+- **Data:** PostgreSQL, Redis, Datomic  
 - **Tools:** Docker, Linux, AWS, CI/CD  
 
 ---
 
 ### 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-nine-puce-89.vercel.app/api?username=davibetoni&theme=radical&count_private=true&show_icons=true)
+![GitHub Stats](https://github-readme-stats-git-master-davibetonis-projects.vercel.app/api?username=davibetoni&theme=radical&count_private=true&show_icons=true&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats-nine-puce-89.vercel.app/apii?username=davibetoni&layout=compact&theme=radical&hide=css,html)
+![Top Langs](https://github-readme-stats-git-master-davibetonis-projects.vercel.app/api/top-langs/?username=davibetoni&layout=compact&theme=radical&hide=css,html)
 
 ---
 
 ### 🌱 Currently learning
 - Clojure & Functional Programming  
 - Datomic queries & system design  
-- Distributed systems
+- Distributed systems  
 
 ---
 
