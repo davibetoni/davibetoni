@@ -22,7 +22,7 @@ Always curious, always learning.
 
 ![Top Langs](https://github-readme-stats-nine-puce-89.vercel.app/api/top-langs/?username=davibetoni&layout=compact&theme=radical&hide=css,html&cache_seconds=7200)
 
-![Snake animation](https://raw.githubusercontent.com/davibetoni/davibetoni/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/davibetoni/davibetoni/output/github-contribution-grid-snake-dark.svg)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=davibetoni&theme=react-dark&hide_border=true)
 ---
