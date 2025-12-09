@@ -18,10 +18,13 @@ Always curious, always learning.
 
 ### 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-nine-puce-89.vercel.app/api?username=davibetoni&theme=radical&count_private=true&show_icons=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats-nine-puce-89.vercel.app/api?username=davibetoni&theme=radical&show_icons=true&count_private=true&include_all_commits=true&cache_seconds=7200)
 
-![Top Langs](https://github-readme-stats-nine-puce-89.vercel.app/api/top-langs/?username=davibetoni&layout=compact&theme=radical&hide=css,html)
+![Top Langs](https://github-readme-stats-nine-puce-89.vercel.app/api/top-langs/?username=davibetoni&layout=compact&theme=radical&hide=css,html&cache_seconds=7200)
 
+![Snake animation](https://raw.githubusercontent.com/davibetoni/davibetoni/output/github-contribution-grid-snake.svg)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=davibetoni&theme=react-dark&hide_border=true)
 ---
 
 ### 🌱 Currently learning
