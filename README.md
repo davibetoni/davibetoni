@@ -1,36 +1,32 @@
-## Hi there 👋
+# 👋 Hi there, I'm **Davi Betoni**  
+### Backend Engineer • 5+ years of experience • Distributed Systems Enthusiast
 
-I'm Davi, a passionate backend engineer with 5+ years of experience building scalable and reliable applications.  
-I specialize in **Node.js, Ruby on Rails, Python**, and I’m currently expanding my knowledge into **Clojure and Datomic**.
-
-I enjoy solving complex problems, designing clean architectures, and improving systems through automation and good engineering practices.  
-Always curious, always learning.
+Passionate about designing scalable systems, writing clean code, and solving complex problems with elegant architectures.  
+Love automation, performance tuning, and learning new technologies every day.
 
 ---
 
 ### 🔧 Tech Stack
 - **Languages:** TypeScript, JavaScript, Ruby, Python, Clojure  
 - **Frameworks:** Node.js (Nest/Express), Ruby on Rails, FastAPI  
-- **Data:** PostgreSQL, Redis, Datomic  
-- **Tools:** Docker, Linux, AWS, CI/CD  
+- **Data & Infraestructure:** MySQL, PostgreSQL, Redis, Datomic, Docker, Linux, AWS, CI/CD 
 
 ---
 
 ### 📈 GitHub Stats
 
+![Snake animation](https://raw.githubusercontent.com/davibetoni/davibetoni/output/github-contribution-grid-snake-dark.svg)
+
 ![GitHub Stats](https://github-readme-stats-nine-puce-89.vercel.app/api?username=davibetoni&theme=radical&show_icons=true&count_private=true&include_all_commits=true&cache_seconds=7200)
 
 ![Top Langs](https://github-readme-stats-nine-puce-89.vercel.app/api/top-langs/?username=davibetoni&layout=compact&theme=radical&hide=css,html&cache_seconds=7200)
 
-![Snake animation](https://raw.githubusercontent.com/davibetoni/davibetoni/output/github-contribution-grid-snake-dark.svg)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=davibetoni&theme=react-dark&hide_border=true)
 ---
 
 ### 🌱 Currently learning
 - Clojure & Functional Programming  
-- Datomic queries & system design  
-- Distributed systems  
+- Datomic queries & system modeling  
+- Distributed Systems & backend architecture patterns  
 
 ---
 
