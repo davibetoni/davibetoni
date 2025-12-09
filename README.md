@@ -18,9 +18,9 @@ Always curious, always learning.
 
 ### 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-nine-puce-89.vercel.app/?username=davibetoni&theme=radical&count_private=true&show_icons=true)
+![GitHub Stats](https://github-readme-stats-nine-puce-89.vercel.app/api?username=davibetoni&theme=radical&count_private=true&show_icons=true)
 
-![Top Langs](https://github-readme-stats-nine-puce-89.vercel.app/i?username=davibetoni&layout=compact&theme=radical&hide=css,html)
+![Top Langs](https://github-readme-stats-nine-puce-89.vercel.app/apii?username=davibetoni&layout=compact&theme=radical&hide=css,html)
 
 ---
 
