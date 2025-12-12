@@ -17,8 +17,6 @@ Love automation, performance tuning, and learning new technologies every day.
 
 ### 📈 GitHub Stats
 
-![Snake animation](https://raw.githubusercontent.com/davibetoni/davibetoni/output/github-contribution-grid-snake-dark.svg)
-
 | | |
 |---|---|
 | ![GitHub Stats](https://github-readme-stats-nine-puce-89.vercel.app/api?username=davibetoni&theme=radical&show_icons=true&count_private=true&include_all_commits=true&cache_seconds=7200) | ![Top Languages](https://github-readme-stats-nine-puce-89.vercel.app/api/top-langs/?username=davibetoni&layout=compact&theme=radical&hide=css,html&cache_seconds=7200) |
