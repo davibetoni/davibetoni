@@ -7,7 +7,7 @@ Love automation, performance tuning, and learning new technologies every day.
 
 ---
 
-### 🔧 Tech Stack
+### Tech Stack
 
 - **Languages:** TypeScript, JavaScript, Ruby, Python, Clojure  
 - **Frameworks:** Node.js (Nest/Express), Ruby on Rails, FastAPI  
@@ -15,7 +15,7 @@ Love automation, performance tuning, and learning new technologies every day.
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 | | |
 |---|---|
@@ -23,7 +23,7 @@ Love automation, performance tuning, and learning new technologies every day.
 
 ---
 
-### 🌱 Currently learning
+### Currently learning
 
 - Clojure & Functional Programming  
 - Datomic queries & system modeling  
@@ -31,13 +31,13 @@ Love automation, performance tuning, and learning new technologies every day.
 
 ---
 
-### 🌐 Social
+### Social
 
 - LinkedIn: <https://www.linkedin.com/in/davi-betoni-3a5665219/>  
 - Nubank GitHub: <https://github.com/nudavibetoni>  
 
 ---
 
-### ✨ Fun fact
+### Fun fact
 
 I love deeply understanding how systems work — from business logic to infrastructure — and I’m always searching for the next thing to optimize or create.
